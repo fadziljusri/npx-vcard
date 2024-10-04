@@ -1,6 +1,6 @@
 {
   "name": "fadzil",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Full-Stack Developer from Malaysia",
   "main": "/bin/card.js",
   "bin": {

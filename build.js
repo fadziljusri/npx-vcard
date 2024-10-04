@@ -20,7 +20,7 @@ const data = {
   twitter: chalk.cyan('https://twitter.com/fadziljusri'),
   github: chalk.cyan('https://github.com/fadziljusri'),
   linkedin: chalk.cyan('https://linkedin.com/in/fadziljusri'),
-  web: chalk.cyan('https://fadzil.me'),
+  web: chalk.cyan('https://fadziljusri.com'),
   npx: chalk.green('npx fadzil'),
   labelWork: chalk.white.bold('       Work:'),
   labelEmail: chalk.white.bold('      Email:'),
